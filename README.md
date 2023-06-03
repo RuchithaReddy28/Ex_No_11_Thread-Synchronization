@@ -2,7 +2,7 @@
 Develop a program to perform Thread Synchronization using Android Studio
 ## AIM:
 To Develop a program to perform Thread Synchronization using Android Studio.
-
+ 
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
